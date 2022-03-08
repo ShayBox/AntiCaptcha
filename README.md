@@ -8,10 +8,7 @@ A python library for anti-captcha.com
 
 #### Install
 ```
-git clone https://github.com/ShayBox/AntiCaptcha.git
-cd AntiCaptcha
-$ poetry build
-$ pip install dist/AntiCaptcha-0.1.0.tar.gz --user
+$ pip install git+https://github.com/ShayBox/AntiCaptcha.git
 ```
 
 #### Usage
